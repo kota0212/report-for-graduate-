@@ -1,0 +1,32 @@
+# Local/private sources and potentially copyrighted academic documents
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.csv
+*.tsv
+*.zip
+*.7z
+*.rar
+
+# Raw papers and respondent/working data
+raw_papers/
+data/
+private/
+confidential/
+downloads/
+.local/
+.env
+.env.*
+!.env.example
+
+# System and editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.bak
+*.tmp
