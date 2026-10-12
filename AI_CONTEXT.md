@@ -18,6 +18,11 @@ full_text_policy_count: 1
 classification_counts: A=8; B=10; C=1
 verified_literature_count: 8
 public_repository: true
+uploaded_pdf_audit: docs/uploaded-pdf-evidence-review-2026-10-12.md
+uploaded_pdf_files: 12
+uploaded_distinct_documents: 11
+uploaded_documents_excluding_retracted: 10
+not_uploaded_in_this_turn: L-002,L-006,L-011,L-015,L-016,L-017,L-018,L-019
 
 ## Read only what is relevant
 
