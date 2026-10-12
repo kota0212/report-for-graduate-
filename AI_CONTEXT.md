@@ -9,13 +9,13 @@ research_topic: user-provided-2026-10-12; formal-approval-unverified
 research_question: unverified
 research_design: undecided
 university_requirements: unverified
-icloud_inventory: not-accessed
+icloud_inventory: partial-finder-inventory-2026-10-12
 source_classification: public-literature-notes-classified; icloud-not-performed
-registered_literature_count: 14
+registered_literature_count: 19
 full_text_checked_count: 8
 full_text_research_count: 7
 full_text_policy_count: 1
-classification_counts: A=8; B=5; C=1
+classification_counts: A=8; B=10; C=1
 verified_literature_count: 8
 public_repository: true
 
@@ -52,3 +52,10 @@ public_repository: true
 - C includes one retracted but highly relevant study; relevance and validity must remain distinct.
 - L-005 and L-006 excluded from formal APA copy list pending bibliographic reconciliation.
 - L-014 original full text not checked; reading its retraction notice does not count as reading the research.
+
+## PDF collection pilot
+
+- L-015–019: pending/unassessed; four PDFs saved locally in iCloud 卒論/未評価, one unavailable.
+- Full-text-checked counts above refer to the earlier review; these four are only partially checked and are not added to that count.
+- Current categories: A=8; B=10; C=1. PDF originals are excluded from Git.
+- audit: references/pdf-collection-pilot-2026-10-12.md

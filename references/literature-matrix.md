@@ -1,6 +1,6 @@
 # 文献レビュー台帳（正本）
 
-最終更新：2026-10-12 ／ 登録14件。旧台帳0件を確認してL-001から採番した。研究テーマは本人提示を検索基準とし、正式承認未確認。
+最終更新：2026-10-12 ／ 登録19件（追加5件は未評価）。旧台帳0件を確認してL-001から採番した。研究テーマは本人提示を検索基準とし、正式承認未確認。
 
 | ID | 判定／状態 | 書誌（詳細MD） | 確認範囲 | 関連度 | 信頼性 | 対象・方法・用途 | 次に行う確認 |
 |---|---|---|---|---|---|---|---|
@@ -18,6 +18,12 @@
 | L-012 | A／使える | [初等中等教育段階における生成AIの利活用に関するガイドライン（Ver. 2.0） (2024)](../sources/usable/L-012-mext-guideline.md) | 本文確認済み | 高 | 高（政策原典）、実証的学習効果は対象外 | 日本の制度・教師責任・リテラシー。方法・知見・限界・引用箇所は詳細MD | 大学・ゼミ倫理要件と学校の同意、サービスの最新規約は別途確認。 |
 | L-013 | B／保留 | [Guidance for generative AI in education and research (2023)](../sources/pending/L-013-unesco-guidance.md) | 抄録相当の公式紹介のみ確認 | 中～高 | 高（公式資料の実在）、内容の精査は未判定 | 政策・人間中心・公平性。方法・知見・限界・引用箇所は詳細MD | 冊子全文・章・ページ、DOI付与の有無。発行年を紹介ページ更新年にしない。 |
 | L-014 | C／使えない（撤回） | [The effect of ChatGPT on students’ learning performance, learning perception, and higher-order thinking: insights from a meta-analysis (2025)](../sources/not-usable/L-014-wang-fan-retracted.md) | 原論文は書誌のみ／撤回通知本文確認済み | 高 | 低（撤回済み、実証根拠に不採用） | メタ分析・撤回管理。方法・知見・限界・引用箇所は詳細MD | 原論文の効果量再利用は不要。将来再登録時も撤回ステータスを維持。 |
+
+| L-015 | B／保留（未評価） | [ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills (2024)](../sources/pending/L-015-pardos-math-help.md) | 本文部分確認・PDF保存済み | 未判定 | 未判定 | 比較群・介入・テスト条件は詳細MD | Workによる全文評価、採否未確定 |
+| L-016 | B／保留（未評価） | [Empowering ChatGPT with guidance mechanism in blended learning: effect of self-regulated learning, higher-order thinking skills, and knowledge construction (2024)](../sources/pending/L-016-lee-guidance-chatgpt.md) | 本文部分確認・PDF保存済み | 未判定 | 未判定 | 比較群・介入・テスト条件は詳細MD | Workによる全文評価、採否未確定 |
+| L-017 | B／保留（未評価） | [Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming (2023)](../sources/pending/L-017-kazemitabaar-code-novices.md) | 本文部分確認・PDF保存済み | 未判定 | 未判定 | 比較群・介入・テスト条件は詳細MD | Workによる全文評価、採否未確定 |
+| L-018 | B／保留（未評価） | [Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance (2025)](../sources/pending/L-018-fan-metacognitive-laziness.md) | 本文部分確認・PDF保存済み | 未判定 | 未判定 | 比較群・介入・テスト条件は詳細MD | Workによる全文評価、採否未確定 |
+| L-019 | B／保留（未評価） | [Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry (2024)](../sources/pending/L-019-stadler-cognitive-ease.md) | 書誌・抄録のみ、PDF未取得 | 未判定 | 未判定 | 比較群・介入・テスト条件は詳細MD | Workによる全文評価、採否未確定 |
 
 本文確認済み文献の比較・評価表は[横断レビュー](../docs/literature-review.md#本文確認済みの評価表)にある。情報を二重の正本として更新しない。
 
