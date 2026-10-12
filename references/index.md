@@ -116,9 +116,9 @@
 
 - 著者・年：Xiaoling Lin; Hao Tan（2025）
 - 領域：K–12レビュー・役割・設計
-- 概要：3～18歳を対象とした84件の査読付き実証研究を、学習目標、活動、AIの役割、成果の関係から整理するレビュー。抄録は3PモデルとCIMO、MMATによる評価を述べる。設計要件を分類する枠組みとして有望だが、抽出表と品質評価の本文を確認するまで採用は保留する。
+- 概要：3～18歳を対象とした84件の査読付き実証研究を、学習目標、活動、AIの役割、成果の関係から整理するレビュー。抄録は3PモデルとCIMO、MMATによる評価を述べる。今回添付PDFの要約・方法・限界の一部を確認した。84件の質評価・抽出表の全面監査は未了のため採用保留。
 - 卒論との関係：K–12レビュー・役割・設計を検討する根拠候補。本文取得・監査まで保留。
-- 判定・確認：B／抄録のみ確認
+- 判定・確認：B／今回添付PDFの要約・方法・限界の一部を確認（全監査未了）
 - [詳細分析](../sources/pending/L-003-lin-tan-k12.md) · [原典](https://www.mdpi.com/2079-8954/13/10/840)
 
 ### L-006：Effects of integrating generative AI, teacher, and peer feedback on Middle school students’ attitudes, writing proficiency, and peer-assessment scoring ability: a quasi-experimental study
@@ -134,18 +134,18 @@
 
 - 著者・年：Jennifer Meyer; Thorben Jansen; Ronja Schiller; Lucas Wilhelm Liebenow; Marlene Hanna Steinbach; Andrea Horbach; Johanna Fleckenstein（2024）
 - 領域：高校・文章フィードバック
-- 概要：高校段階の英語学習者459人が論証文を修正する際、GPT-3.5-turboのフィードバックを受ける条件と無フィードバック条件を比較する研究。抄録は修正成績と動機・感情への利益を報告する。文章修正と新たな文章を自力で書く技能は別で、本文確認後に再評価する。
+- 概要：高校段階の英語学習者459人が論証文を修正する際、GPT-3.5-turboのフィードバックを受ける条件と無フィードバック条件を比較する研究。抄録は修正成績と動機・感情への利益を報告する。今回添付PDFのTable 1では同じ文章の修正成績が改善（p=.042）した一方、新規作文課題の群間差は有意でない（p=.259）。両アウトカムは区別する。
 - 卒論との関係：高校・文章フィードバックを検討する根拠候補。本文取得・監査まで保留。
-- 判定・確認：B／抄録のみ確認
+- 判定・確認：B／今回添付PDFの方法・Table 1を確認（追加監査待ち）
 - [詳細分析](../sources/pending/L-009-meyer-writing-feedback.md) · [原典](https://www.sciencedirect.com/science/article/pii/S2666920X23000784)
 
 ### L-013：Guidance for generative AI in education and research
 
 - 著者・年：Fengchun Miao; Wayne Holmes（2023）
 - 領域：政策・人間中心・公平性
-- 概要：UNESCOが教育と研究での生成AI利用を人間中心に設計するために示した指針。公式紹介ではデータ保護、年齢に配慮した利用、倫理と教育的妥当性の検証を重視する。日本の政策との比較候補だが、今回は冊子本文を取得できていないため詳細条項やページは保留する。
+- 概要：UNESCOが教育と研究での生成AI利用を人間中心に設計するために示した指針。公式紹介ではデータ保護、年齢に配慮した利用、倫理と教育的妥当性の検証を重視する。今回の添付PDFで冊子の冒頭と政策原則およびDOIを確認した。全条項と日本法との詳細対比は引き続き保留。
 - 卒論との関係：政策・人間中心・公平性を検討する根拠候補。本文取得・監査まで保留。
-- 判定・確認：B／抄録相当の公式紹介のみ確認
+- 判定・確認：B／今回添付の公式冊子の冒頭・政策原則を確認（全章精査未了）
 - [詳細分析](../sources/pending/L-013-unesco-guidance.md) · [原典](https://unesdoc.unesco.org/ark:/48223/pf0000386693)
 
 ## C：不採用
