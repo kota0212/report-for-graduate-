@@ -52,3 +52,7 @@ Wang, R. E., Ribeiro, A. T., Robinson, C. D., Loeb, S., & Demszky, D. (2024). *T
 ## 不採用文献（参考文献コピー一覧から除外）
 
 - [L-014](../sources/not-usable/L-014-wang-fan-retracted.md)：撤回済み。除外理由は原典の撤回通知で確認。
+
+## TOP10の追加書誌（2026-10-13）
+
+新規L-020～029の[APA追加一覧](apa-top10-2026-10-13.md)。L-026の姓分割は要確認。既存の書誌・採否は維持。

@@ -1,6 +1,6 @@
 # 文献レビュー台帳（正本）
 
-最終更新：2026-10-12 ／ 登録19件（追加5件は未評価）。旧台帳0件を確認してL-001から採番した。研究テーマは本人提示を検索基準とし、正式承認未確認。
+最終更新：2026-10-13 ／ 登録29件（L-015～029は未評価）。旧台帳0件を確認してL-001から採番した。研究テーマは本人提示を検索基準とし、正式承認未確認。
 
 | ID | 判定／状態 | 書誌（詳細MD） | 確認範囲 | 関連度 | 信頼性 | 対象・方法・用途 | 次に行う確認 |
 |---|---|---|---|---|---|---|---|
@@ -25,6 +25,17 @@
 | L-018 | B／保留（未評価） | [Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance (2025)](../sources/pending/L-018-fan-metacognitive-laziness.md) | 本文部分確認・PDF保存済み | 未判定 | 未判定 | 比較群・介入・テスト条件は詳細MD | Workによる全文評価、採否未確定 |
 | L-019 | B／保留（未評価） | [Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry (2024)](../sources/pending/L-019-stadler-cognitive-ease.md) | 書誌・抄録のみ、PDF未取得 | 未判定 | 未判定 | 比較群・介入・テスト条件は詳細MD | Workによる全文評価、採否未確定 |
 
+| L-020 | B／保留（未評価） | [Enhancing students’ authentic mathematical problem-solving skills and confidence through error analysis of GPT-4 solutions (2025)](../sources/pending/L-020-lin-gpt4-error-analysis.md) | 取得済み・本文部分確認 | 未判定 | 未判定 | TOP1、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-021 | B／保留（未評価） | [Impact of generative AI dialogic feedback on different stages of programming problem solving (2025)](../sources/pending/L-021-gong-programming-dialogic-feedback.md) | 未取得・本文未確認 | 未判定 | 未判定 | TOP2、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-022 | B／保留（未評価） | [Impact of assignment completion assisted by Large Language Model-based chatbot on middle school students’ learning (2025)](../sources/pending/L-022-zhu-assignment-wisdombot.md) | 未取得・本文未確認 | 未判定 | 未判定 | TOP3、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-023 | B／保留（未評価） | [The role of help-seeking from ChatGPT in digital game-based learning (2025)](../sources/pending/L-023-chen-law-help-seeking.md) | 未取得・本文未確認 | 未判定 | 未判定 | TOP4、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-024 | B／保留（未評価） | [The effectiveness of ChatGPT in assisting high school students in programming learning: evidence from a quasi-experimental research (2025)](../sources/pending/L-024-yang-highschool-programming.md) | 取得済み・本文部分確認 | 未判定 | 未判定 | TOP5、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-025 | B／保留（未評価） | [Development of a generative AI -powered teachable agent for middle school mathematics learning: A design-based research study (2025)](../sources/pending/L-025-xing-alter-math.md) | 未取得・本文未確認 | 未判定 | 未判定 | TOP6、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-026 | B／保留（未評価） | [The Impact of Generative Artificial Intelligence-based Formative Feedback on the Mathematical Motivation of Chinese Grade 4 Students: a Case Study (2023)](../sources/pending/L-026-zheng-formative-motivation.md) | 未取得・本文未確認 | 未判定 | 未判定 | TOP7、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-027 | B／保留（未評価） | [The Effects of Prompt Scaffolding on Learning to Write Arguments with ChatGPT (2024)](../sources/pending/L-027-jang-prompt-argument-writing.md) | 取得済み・本文部分確認 | 未判定 | 未判定 | TOP8、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-028 | B／保留（未評価） | [Investigating the Impact of Integrating Prompting Strategies in ChatGPT on Students Learning Achievement and Cognitive Load (2024)](../sources/pending/L-028-huang-prompt-cognitive-load.md) | 未取得・本文未確認 | 未判定 | 未判定 | TOP9、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+| L-029 | B／保留（未評価） | [Can Students Make STEM Progress With the Large Language Models (LLMs)? An Empirical Study of LLMs Integration Within Middle School Science and Engineering Practice (2025)](../sources/pending/L-029-guo-llm-stem.md) | 未取得・本文未確認 | 未判定 | 未判定 | TOP10、対象・比較条件・統計は詳細MD | AIなし評価・転移・保持・本文不一致を再確認。採否未確定 |
+
 本文確認済み文献の比較・評価表は[横断レビュー](../docs/literature-review.md#本文確認済みの評価表)にある。情報を二重の正本として更新しない。
 
 ## 今回の添付PDF現物確認（2026-10-12）
@@ -45,3 +56,7 @@
 - iCloud「卒論」フォルダ：実ファイルの一覧と分類先を確認する
 
 これらを精査済みとしない。収録論文ごとに「研究設計の参考」と「自分の研究テーマの直接的な先行研究」を区別する。
+
+## TOP10原著の収集（2026-10-13）
+
+既存19件に同一原著なし。L-020～029をBで追加。PDF利用可能3件（新規保存2／既存再利用1）／7未取得。取得範囲と未確認を[取得監査](pdf-collection-top10-2026-10-13.md)に記録。研究の横断評価は今回未実施。
