@@ -3,7 +3,7 @@
 project_id: graduate-thesis
 repository: kota0212/report-for-graduate-
 source_of_truth: this-repository
-reviewed_at: 2026-10-12
+reviewed_at: 2026-10-13
 phase: research-scoping
 research_topic: user-provided-2026-10-12; formal-approval-unverified
 research_question: unverified
@@ -11,13 +11,18 @@ research_design: undecided
 university_requirements: unverified
 icloud_inventory: partial-finder-inventory-2026-10-12
 source_classification: public-literature-notes-classified; icloud-not-performed
-registered_literature_count: 19
+registered_literature_count: 29
 full_text_checked_count: 8
 full_text_research_count: 7
 full_text_policy_count: 1
-classification_counts: A=8; B=10; C=1
+classification_counts: A=8; B=20; C=1
 verified_literature_count: 8
 public_repository: true
+uploaded_pdf_audit: docs/uploaded-pdf-evidence-review-2026-10-12.md
+uploaded_pdf_files: 12
+uploaded_distinct_documents: 11
+uploaded_documents_excluding_retracted: 10
+not_uploaded_in_this_turn: L-002,L-006,L-011,L-015,L-016,L-017,L-018,L-019
 
 ## Read only what is relevant
 
@@ -57,5 +62,14 @@ public_repository: true
 
 - L-015–019: pending/unassessed; four PDFs saved locally in iCloud 卒論/未評価, one unavailable.
 - Full-text-checked counts above refer to the earlier review; these four are only partially checked and are not added to that count.
-- Current categories: A=8; B=10; C=1. PDF originals are excluded from Git.
+- Current categories: A=8; B=20; C=1. PDF originals are excluded from Git.
 - audit: references/pdf-collection-pilot-2026-10-12.md
+
+## TOP10 original collection 2026-10-13
+
+- audit: references/pdf-collection-top10-2026-10-13.md
+- handoff: docs/work-handoff-top10-2026-10-13.md
+- L-020–029: all B, unassessed; 3 PDFs available (L-020 and L-027 newly saved; L-024 reused original moved/renamed with explicit user authorization; all three in 未評価), 7 unavailable.
+- These three PDFs partially checked; earlier full-text-checked counts above unchanged.
+- AI-free pre/post essay explicitly confirmed only for L-027 in this TOP10 batch.
+- iCloud sync unverified; no original PDF or extracted full text in Git.
