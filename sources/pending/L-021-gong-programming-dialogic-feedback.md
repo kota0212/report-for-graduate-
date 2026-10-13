@@ -21,7 +21,7 @@
 - SHA-256：該当なし（未取得）
 - 保存検証：保存ファイルなし。ページ数・サイズ・正常開封・本文一致・同期の検証は該当なし。
 - iCloud同期：該当なし（未取得）
-- 取得経路／未取得理由：出版社は購読プレビュー。ResearchGateにXin Gong公開PDFがあるが、通常リンクで端末確認／Chrome ERR_BLOCKED_BY_CLIENTとなり未取得。ユーザー確認操作待ち。
+- 取得経路／未取得理由：出版社は購読プレビュー。ResearchGateにXin Gong公開PDFがあるが、通常リンクでChrome ERR_BLOCKED_BY_CLIENTとなり未取得。ユーザー添付画面はCAPTCHAではなく、確認操作依頼は撤回済み。
 - その他の確認経路：https://eric.ed.gov/?id=EJ1470342
 - 著者公開経路：https://www.researchgate.net/publication/386571362_Impact_of_generative_AI_dialogic_feedback_on_different_stages_of_programming_problem_solving
 

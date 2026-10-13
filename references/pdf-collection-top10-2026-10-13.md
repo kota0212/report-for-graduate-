@@ -26,7 +26,7 @@ Finderで既存のiCloud Drive → ゼミ → 卒論 → 未評価を確認し�
 | ID | iCloud相対保存場所 | ページ | bytes | PDF取得URL |
 |---|---|---:|---:|---|
 | L-020 | ゼミ/卒論/未評価/L-020_Lin_2025_GPT4ErrorAnalysis.pdf | 28 | 1046204 | [公開掲載PDF](https://rptel.apsce.net/index.php/RPTEL/article/download/2025-20034/2025-20034) |
-| L-024 | ゼミ/卒論/The effectiveness of ChatGPT in assisting high school students in programming learning  evidence from a quasi-experimental research.pdf | 19 | 1225284 | [公開掲載PDF](https://www.tandfonline.com/doi/pdf/10.1080/10494820.2025.2450659) |
+| L-024 | ゼミ/卒論/未評価/L-024_Yang_2025_ChatGPTProgramming.pdf | 19 | 1225284 | [公開掲載PDF](https://www.tandfonline.com/doi/pdf/10.1080/10494820.2025.2450659) |
 | L-027 | ゼミ/卒論/未評価/L-027_Jang_2024_PromptArgumentWriting.pdf | 4 | 292030 | [公開掲載PDF](https://repository.isls.org/bitstream/1/10736/1/ICLS2024_1502-1505.pdf) |
 
 各PDFのタイトル・著者・年・DOIを本文／書誌で照合。pypdfで全ページを開き文字抽出し、選択ページを画像でも確認。TOP5の19ページには出版社表紙1ページが含まれる。保存先実在・サイズ・SHA-256一致を検証。ハッシュは個別MDに記録。**iCloud同期は全3件「同期未確認」**。MacのiCloud管理フォルダでの保存は確認済みだが、Apple側の実体を独立に確認していない。
@@ -57,7 +57,7 @@ Finderで既存のiCloud Drive → ゼミ → 卒論 → 未評価を確認し�
 
 | TOP／ID | 公開経路の確認・未取得理由 |
 |---|---|
-| 2／L-021 | 出版社は購読プレビュー。ResearchGateにXin Gong公開PDFがあるが、通常リンクで端末確認／Chrome ERR_BLOCKED_BY_CLIENTとなり未取得。ユーザー確認操作待ち。 |
+| 2／L-021 | 出版社は購読プレビュー。ResearchGateにXin Gong公開PDFがあるが、通常リンクでChrome ERR_BLOCKED_BY_CLIENTとなり未取得。ユーザー添付画面はCAPTCHAではなく、確認操作依頼は撤回済み。 |
 | 3／L-022 | 出版社購読プレビュー。ERIC EJ1460490等に書誌はあるが、今回確認した正規公開経路に原著PDFなし。 |
 | 4／L-023 | 出版社購読プレビュー。ResearchGate等の候補にも取得可能な公開原著PDFを確認できなかった。 |
 | 6／L-025 | Wiley公式ePDFでアクセス拒否とログイン／購入選択肢を確認。公開著者稿・機関PDFは今回見つからなかった。 |
@@ -65,7 +65,7 @@ Finderで既存のiCloud Drive → ゼミ → 卒論 → 未評価を確認し�
 | 9／L-028 | Springer会議論文は購読プレビュー。検索で見つかった公開e_book2.pdfはLNCS14786 Part IIで、対象の14785 Part Iではなく取得対象から除外。合法的公開原著PDFは今回未確認。 |
 | 10／L-029 | Sage公式ページにRestricted access、購読／学内認証が必要。通常PDF取得も403。正規公開著者稿を今回確認できなかった。 |
 
-購入・契約・認証突破・証明書警告無視・制限回避は行っていない。学内認証による取得は未実施。TOP2の著者公開稿についてユーザーへ確認操作を依頼し、操作意向の返信を受けたが完了は未確認。PDF本体リンクでChromeのERR_BLOCKED_BY_CLIENTを観察し、保護設定変更や回避は行っていない。
+購入・契約・認証突破・証明書警告無視・制限回避は行っていない。学内認証による取得は未実施。TOP2の著者公開稿について確認操作を依頼したが、ユーザー添付画面はCAPTCHAではなくChromeのブロック表示と確認できたため、操作依頼を撤回した。PDF本体リンクでChromeのERR_BLOCKED_BY_CLIENTを観察し、保護設定変更や回避は行っていない。
 
 ## 不一致・引き継ぐ未確認
 
@@ -83,6 +83,6 @@ AGENTS.md指定の共通Vault AI_RULES.mdは公開raw URLとrepository参照で�
 
 ## ローカル原本の追記
 
-TOP5と同一の原著PDFが卒論直下に存在し、本文18ページは取得版と一致した。既存L-001～019の登録重複ではない。新規L-024を既存原本へ紐付け、今回作成した重複コピーだけを除去した。既存原本の未評価への移動・改名は確認依頼中。したがって現状は新規2件を未評価に保存、TOP5は既存原本1件を再利用。3論文のPDFを利用可能とした。
+TOP5と同一の原著PDFが卒論直下に存在し、本文18ページは取得版と一致した。既存L-001～019の登録重複ではない。新規L-024を既存原本へ紐付け、今回作成した重複コピーだけを除去した。既存原本は2026-10-13にユーザーの明示許可を受け、未評価へ移動・指定名へ改名済み。移動前後のSHA-256一致を確認。したがって現状は3件とも未評価に保存（新規2件・既存原本の移動1件）。3論文のPDFを利用可能とした。
 
 保存検証の追加：iCloud卒論内27PDF（取得途中のTOP5を含む）の先頭2ページを開き、対象DOI・題名を照合した。本文の詳細分析はこの棚卸しでは行っていない。TOP5以外のTOP10原著はこの既存一覧に一致を検出しなかった。Finderで新規L-020・L-027を確認した。Finder全体にダウンロード中の表示があり、個別3PDFのクラウド側同期は判定できない。

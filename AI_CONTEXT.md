@@ -69,7 +69,7 @@ not_uploaded_in_this_turn: L-002,L-006,L-011,L-015,L-016,L-017,L-018,L-019
 
 - audit: references/pdf-collection-top10-2026-10-13.md
 - handoff: docs/work-handoff-top10-2026-10-13.md
-- L-020–029: all B, unassessed; 3 PDFs available (L-020 and L-027 newly saved; L-024 reused original), 7 unavailable.
+- L-020–029: all B, unassessed; 3 PDFs available (L-020 and L-027 newly saved; L-024 reused original moved/renamed with explicit user authorization; all three in 未評価), 7 unavailable.
 - These three PDFs partially checked; earlier full-text-checked counts above unchanged.
 - AI-free pre/post essay explicitly confirmed only for L-027 in this TOP10 batch.
 - iCloud sync unverified; no original PDF or extracted full text in Git.
