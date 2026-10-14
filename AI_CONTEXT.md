@@ -3,20 +3,23 @@
 project_id: graduate-thesis
 repository: kota0212/report-for-graduate-
 source_of_truth: this-repository
-reviewed_at: 2026-10-12
+reviewed_at: 2026-10-14
 phase: research-scoping
 research_topic: user-provided-2026-10-12; formal-approval-unverified
 research_question: unverified
 research_design: undecided
 university_requirements: unverified
 icloud_inventory: partial-finder-inventory-2026-10-12
-source_classification: public-literature-notes-classified; icloud-not-performed
+source_classification: public-notes-reclassified-2026-10-14; no-icloud-move-this-audit
 registered_literature_count: 19
-full_text_checked_count: 8
-full_text_research_count: 7
-full_text_policy_count: 1
-classification_counts: A=8; B=10; C=1
-verified_literature_count: 8
+full_text_checked_count: 16
+full_text_research_count: 14
+full_text_policy_count: 2
+classification_counts: A=15; B=3; C=1
+verified_literature_count: 16
+full_text_unchecked_active_count: 2
+retracted_original_unchecked_count: 1
+full_text_checked_pending_ids: L-003
 public_repository: true
 
 ## Read only what is relevant
@@ -42,7 +45,7 @@ public_repository: true
 - Default to pending for unread literature, especially while RQ remains unresolved.
 
 
-## Literature update 2026-10-12
+## Historical literature update 2026-10-12
 
 - index: [references/index.md](references/index.md)
 - APA: [references/apa-reference-list.md](references/apa-reference-list.md)
@@ -53,9 +56,19 @@ public_repository: true
 - L-005 and L-006 excluded from formal APA copy list pending bibliographic reconciliation.
 - L-014 original full text not checked; reading its retraction notice does not count as reading the research.
 
-## PDF collection pilot
+## Historical PDF collection pilot (2026-10-12; not current evaluation)
 
 - L-015–019: pending/unassessed; four PDFs saved locally in iCloud 卒論/未評価, one unavailable.
-- Full-text-checked counts above refer to the earlier review; these four are only partially checked and are not added to that count.
-- Current categories: A=8; B=10; C=1. PDF originals are excluded from Git.
+- At pilot time full-text count was 8; these four were only partially checked then. Current counts are in top metadata and current analysis below.
+- Pilot-time categories: A=8; B=10; C=1. PDF originals are excluded from Git.
 - audit: references/pdf-collection-pilot-2026-10-12.md
+
+## Current analysis 2026-10-14
+
+- analysis: [docs/literature-review.md](docs/literature-review.md)
+- audit: [references/full-text-audit-2026-10-14.md](references/full-text-audit-2026-10-14.md)
+- Newly full-text reviewed: L-003/009/013/015–019. Earlier 8 retained from 2026-10-12 notes, not all re-audited.
+- Pending: L-002/006 full text; L-003 counts/quality/version audit despite full-text access.
+- Do not claim Socratic-only superiority, long-term dependency prevention, statistical equivalence from nonsignificance, or causal pretest benefit.
+- RQ/research design remain unapproved/undecided. Registered corpus remains 19.
+- See GR-014 completed bounded analysis; GR-004/006/012/013 remain ongoing.
