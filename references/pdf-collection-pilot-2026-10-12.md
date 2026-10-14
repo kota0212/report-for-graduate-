@@ -18,10 +18,14 @@ Google Scholarの検索 `generative AI learning randomized controlled trial hint
 
 ## 個別記録
 
-- [L-015 — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills](../sources/pending/L-015-pardos-math-help.md)
-- [L-016 — Empowering ChatGPT with guidance mechanism in blended learning: effect of self-regulated learning, higher-order thinking skills, and knowledge construction](../sources/pending/L-016-lee-guidance-chatgpt.md)
-- [L-017 — Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming](../sources/pending/L-017-kazemitabaar-code-novices.md)
-- [L-018 — Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance](../sources/pending/L-018-fan-metacognitive-laziness.md)
-- [L-019 — Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry](../sources/pending/L-019-stadler-cognitive-ease.md)
+- [L-015 — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills](../sources/usable/L-015-pardos-math-help.md)
+- [L-016 — Empowering ChatGPT with guidance mechanism in blended learning: effect of self-regulated learning, higher-order thinking skills, and knowledge construction](../sources/usable/L-016-lee-guidance-chatgpt.md)
+- [L-017 — Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming](../sources/usable/L-017-kazemitabaar-code-novices.md)
+- [L-018 — Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance](../sources/usable/L-018-fan-metacognitive-laziness.md)
+- [L-019 — Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry](../sources/usable/L-019-stadler-cognitive-ease.md)
 
 PDF原本、抽出全文、本文画像は公開GitHubへコミットしない。本文部分確認を精読・採用と扱わない。AIなしテストは明記確認／未確認を区別する。5件の試行で終了し、横断分析・研究結論・「使える」「使えない」への分類は未実施。
+
+## 後続評価へのリンク（2026-10-14）
+
+本文評価は[今回の原典監査](full-text-audit-2026-10-14.md)で補完。上記は取得試行当時の状態。現在の分類・確認件数は[台帳](literature-matrix.md)を参照し、原本の移動履歴とは区別する。
