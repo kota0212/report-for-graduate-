@@ -1,5 +1,17 @@
 # AI Context / Machine-readable project index
 
+## CURRENT Step 8 2026-10-16: Ch2 and Ch3 Markdown drafts created
+
+- chapter2_new: docs/chapter-2-theoretical-framework-draft-2026-10-16.md (2-1..2-7; theory, construct distinctions, SRL, scaffolding, feedback, pretesting, limits)
+- chapter3_new: docs/chapter-3-literature-review-draft-2026-10-16.md (3-1..3-9; K-12 reviews, direct/auxiliary evidence, counterexamples, study gaps)
+- chapter5: docs/chapter-5-comparative-analysis-draft-2026-10-16.md; chapter6: docs/chapter-6-design-requirements-draft-2026-10-16.md; chapter7: docs/chapter-7-conclusion-draft-2026-10-16.md.
+- step7_candidate: references/step7-new-candidate-kreijkes-2026-10-16.md (C-001 unregistered M2 candidate pending explicit AI-free test verification).
+- registered_literature_count: 24 unchanged; PRIMARY M1 L-001/027 (2); M2 L-005/017; supplementary Q L-009/024/029.
+- newly_reviewed_theory_2026_10_16: van de Pol et al 2010 publisher OA full relevant sections; Zimmerman 2002 / Wood et al 1976 / Renkl & Atkinson 2003 bibliographic/abstract only. THESE are NOT included in 24 registered literature and should not be cited as newly full-text audited.
+- current_issue: Chapter4 Markdown local file only, previously GitHub write blocked. Word chapter5-7 placeholders remain. All drafts require adviser review, official citation appendix and exact Word char counts.
+- user_selected_font: 游明朝 Regular 10.5pt (Japanese and Latin).
+
+
 ## CURRENT 2026-10-16 Step 4 status (overrides historical subsections below)
 
 - progress: Step4 requirements mapping and Chapter6 Markdown draft created; not a finished manuscript or Word DOCX.
