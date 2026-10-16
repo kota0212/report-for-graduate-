@@ -1,5 +1,9 @@
 # L-009：Using LLMs to bring evidence-based feedback into the classroom: AI-generated feedback increases secondary students’ text revision, motivation, and positive emotions
 
+## 査読後の成果行再監査（2026-10-16）
+
+p.4 §2.2・Fig.1、p.5 Table1を指定Drive原典で再照合。別題作文は新たな研究用FBを伴わない手続としてS1/M2へ。外部AI禁止・旧FB画面の残存は未確定。修正は支援中A0、別題は近転移候補で係数.13、SE.12、p=.259。動機平均と係数の方向不整合・93人除外は留保。 詳細：[ページ付き監査](../../references/gemini-source-audit-2026-10-16.md)。以下は旧時点の記録を含む。
+
 [文献総合ページへ戻る](../../references/index.md) · [台帳](../../references/literature-matrix.md) · [APA一覧](../../references/apa-reference-list.md)
 
 ## 現在の評価（2026-10-14）

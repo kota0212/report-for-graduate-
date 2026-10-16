@@ -1,5 +1,17 @@
 # AI Context / Machine-readable project index
 
+## CURRENT: Gemini source audit 2026-10-16 (overrides older snapshots)
+
+- evidence: references/gemini-source-audit-2026-10-16.md
+- RQ unchanged; original DOCX and Gemini reviews unchanged; no chapter manuscript rewrite.
+- source support codes: S0 explicit unassisted; S1 phase-separated support (inference, not external-AI blocking); S2 first attempt before support; SU unknown; SA assisted.
+- registered 24 unchanged; representative roles M1=2, M2=4, Q=4, I=6, B=7, X=1. L-009 new-task and L-029 knowledge now M2/S1; their other outcomes remain Q. C-001 separate M2 candidate.
+- strict M1 retained; S1 expanded primary analysis proposed, not adopted as final methodology.
+- Kreijkes publication exists in Drive as main.pdf; older not-saved statements superseded. Drive direct children=34 (32 literature PDFs + 1 faculty PDF + 1 draft DOCX). Tutor CoPilot duplicate extracted text equal; bytes differ/identity not established.
+- bibliography in original Word=26 entries, registry=24 different set. Source audit tracks omissions, code-only mentions, unregistered theory and surveys.
+- Worden Study2 confirmed: 6055 unique students/12950 observations; next-problem OR .98 [.87,1.09], p=.667 does not establish equivalence.
+- GR-003/004/012/013/017 ongoing; GR-010 draft-created/revision-ongoing. Full re-extraction, supplements, source/citation audit, compression and adviser review remain.
+
 ## CURRENT Step 8 2026-10-16: Ch2 and Ch3 Markdown drafts created
 
 - chapter2_new: docs/chapter-2-theoretical-framework-draft-2026-10-16.md (2-1..2-7; theory, construct distinctions, SRL, scaffolding, feedback, pretesting, limits)

@@ -1,5 +1,9 @@
 # L-005：A Large Scale Randomized Control Trial Showing LLM Generated Feedback Helps Low-Knowledge Middle School Math Students with Short-Term Learning
 
+## 査読後の成果行再監査（2026-10-16）
+
+印刷p.368（PDF8）Table8のStudy2は6,055固有生徒／12,950観測、97問題、594学級。p.369（PDF9）Table9の次試行OR1.10 [.98,1.25],p=.110、Table10の次問OR.98 [.87,1.09],p=.667。非有意から同等性・非劣性を主張しない。pp.366–367（PDF6–7）の支援前初回解答S2としてM2維持。Study1の全体Table4と低群事後Table5を分離。 詳細：[ページ付き監査](../../references/gemini-source-audit-2026-10-16.md)。以下は旧時点の記録を含む。
+
 [文献総合ページへ戻る](../../references/index.md) · [台帳](../../references/literature-matrix.md) · [APA一覧](../../references/apa-reference-list.md)
 
 ## 1. 基本書誌情報
