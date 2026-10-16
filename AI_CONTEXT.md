@@ -1,5 +1,14 @@
 # AI Context / Machine-readable project index
 
+## Current file inventory after user-added official notice (2026-10-16)
+
+- google_drive_root_file_count: 32 PDFs (includes 1 official 2026 thesis submission notice; this is **not 32 distinct research articles**).
+- literature_pdf_snapshot_before_notice: 31 PDFs, per 2026-10-16 source audit.
+- faculty_notice_filename: ⑤2026年度「卒業論文」の提出について.pdf (verified in designated Drive folder).
+- folder_permissions_reverified: anyone/writer, unchanged; restricted academic documents must not be uploaded before securing folder.
+
+
+
 ## 2026-10-16 authoritative submission rules and drafting status
 
 - official_source: 2026-05 Ritsumeikan Policy Science Faculty 2026 undergraduate thesis submission notice; user-provided 2-page PDF confirmed.
