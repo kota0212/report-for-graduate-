@@ -1,5 +1,9 @@
 # 卒業論文プロジェクト
 
+**Step 8（2026-10-16）**：[第2章・理論的枠組み](docs/chapter-2-theoretical-framework-draft-2026-10-16.md)と[第3章・先行研究](docs/chapter-3-literature-review-draft-2026-10-16.md)の新しい本文草稿を作成。既存の[第5章](docs/chapter-5-comparative-analysis-draft-2026-10-16.md)・[第6章](docs/chapter-6-design-requirements-draft-2026-10-16.md)・[第7章](docs/chapter-7-conclusion-draft-2026-10-16.md)との接続を整理した。案AはAIなし成果が主、SRL補助。M1は中等直接2研究（L-001/027）で変化なし。**第4章はローカル草稿のみ、Word全文統合と引用文献の最終確認は未完了。** 詳細は[タスク管理](docs/tasks.md)と[監査レポート](docs/step7-cross-chapter-audit-2026-10-16.md)。
+
+
+
 **最新（2026-10-16 Step 4）**：[第5章「比較分析」一次草稿](docs/chapter-5-comparative-analysis-draft-2026-10-16.md)と[第6章「設計要件」一次草稿](docs/chapter-6-design-requirements-draft-2026-10-16.md)を作成し、[DR-01〜12の根拠・反証・検証対応](references/step4-design-requirements-evidence-matrix-2026-10-16.md)を整理。**案A採用（AIなし成果中心／SRL補助）**。厳格な中等直接のAIなし主分析はL-001/027の2件、全登録は24件。Word全文・指導承認・提出は未完了。フォントは**游明朝 Regular 10.5pt**、公式文字数は**20,000字程度**、期限は**12月20日23:59**。下の開始時の29/31PDF・3主候補・旧フォント等の記述は履歴として扱い、最新節と詳細正本を優先する。
 
 
