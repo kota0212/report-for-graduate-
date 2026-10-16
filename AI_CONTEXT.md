@@ -2,8 +2,14 @@
 
 project_id: graduate-thesis
 repository: kota0212/report-for-graduate-
-source_of_truth: this-repository
-reviewed_at: 2026-10-14
+source_of_truth: this-repository (research notes, plans, tasks)
+literature_originals_source_of_truth: google-drive:1za-s4pfKumktTaYw8ySywjiUTPxsCuMF
+literature_originals_folder_name: ゼミ（卒論）
+literature_originals_url: https://drive.google.com/drive/folders/1za-s4pfKumktTaYw8ySywjiUTPxsCuMF
+literature_originals_folder_listing_2026-10-16: 29 PDFs (not literature IDs; unverified matching)
+literature_originals_folder_permissions_2026-10-16: anyone/writer; RESTRICT ACCESS BEFORE SENSITIVE UPLOADS
+literature_originals_migration_from_icloud: not_performed
+reviewed_at: 2026-10-16 (storage policy only; literature last reviewed 2026-10-14)
 phase: research-scoping
 research_topic: user-provided-2026-10-12; formal-approval-unverified
 research_question: unverified
@@ -26,6 +32,7 @@ public_repository: true
 
 - rules: [AGENTS.md](AGENTS.md)
 - human_summary: [docs/overview.md](docs/overview.md)
+- originals_storage_policy: [docs/source-storage.md](docs/source-storage.md)
 - plan: [docs/research-plan.md](docs/research-plan.md)
 - previous_plan_assessment: [docs/plan-review.md](docs/plan-review.md)
 - methods_decision: [docs/research-design.md](docs/research-design.md)
@@ -39,6 +46,8 @@ public_repository: true
 
 - Do not promote unknown facts to confirmed state.
 - Never claim to have moved or read iCloud files unless tool evidence proves it.
+- From 2026-10-16, save new original literature PDF files to the specified Google Drive folder. Do not confuse raw PDF count (29 as listed) with 19 evaluated literature entries; do not claim to have migrated past iCloud files.
+- This Google Drive folder currently has anyone/writer sharing and this GitHub repo is public; do not upload nonpublic/restricted documents until access is restricted. Changes to Google permissions are not yet made.
 - Never upload source PDFs, private academic materials, raw respondent data, or secrets to this public repository.
 - Keep human-facing summaries compact and link to canonical detailed documents.
 - Maintain literature IDs and task IDs; reconcile state when updating.
