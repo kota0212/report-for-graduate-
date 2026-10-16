@@ -1,5 +1,20 @@
 # AI Context / Machine-readable project index
 
+## CURRENT 2026-10-16 Step 4 status (overrides historical subsections below)
+
+- progress: Step4 requirements mapping and Chapter6 Markdown draft created; not a finished manuscript or Word DOCX.
+- chapter5: docs/chapter-5-comparative-analysis-draft-2026-10-16.md
+- chapter6: docs/chapter-6-design-requirements-draft-2026-10-16.md
+- dr_evidence_mapping: references/step4-design-requirements-evidence-matrix-2026-10-16.md
+- analysis_primary: M1 two studies L-001 and L-027 (AI use prohibited at evaluation and middle/high school direct), M2 two L-005 and L-017, Q and SRL supplementary others.
+- registered_literature: 24, plus 2 unregistered/saving-deferred WPs; unchanged.
+- user_approved: Option A (unassisted achievement primary, SRL secondary). No RQ revision approved; teacher approval outstanding.
+- evidence: DR-01 evaluation necessity directly supported; DR-02/03/04/07 others mixed/compound; DR-05/06/12 unproven functions; DR-09 policy/rights, not achievement effects; DR-11 monitoring B vs intervention effect C; findings do not establish all 12 features' effects.
+- NOT DONE: Docx merge of chapters 5/6, chapter7, final 20k character body, citation appendix, comprehensive reference-page verification, full literature search, independent teacher signoff.
+- formatting_final: Yu Mincho Regular 10.5 pt; older MS PGothic or MS Mincho suggestions and early "M1=3" triage are historical.
+
+
+
 ## 2026-10-16 Step 1 decision and Step 2 execution (current)
 
 - user_confirmed_method_focus: **OPTION A ADOPTED**; PRIMARY unassisted student learning outcomes; SECONDARY SRL, metacognition, verification and aid-selection behaviors.
