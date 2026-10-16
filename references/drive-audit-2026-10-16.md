@@ -15,8 +15,8 @@
 |s41598-025-97652-6.pdf|L-008|10.1038/s41598-025-97652-6。Drive ID: `1S3a4E1r6fsxS-4XNEAnVXq6qfA1KAMVb`|
 |59_70.pdf|L-007|DOI未確認。Drive ID: `1PxKV1eUcIrtvYXUZEFBjNK_2vhZ2MNgg`|
 |3774398.3811594.pdf|L-005|10.1145/3774398.3811594。Drive ID: `1pO_gSYyW8yIowx7H7_GPL2bNJjWrYnZp`|
-|2410.03017v2.pdf|L-004|10.1145/3591300.。Drive ID: `1-ZXOIjqzDB1zNRcts-re2upDR7st2QCj`|
-|2410.03017v2-2.pdf|L-004|10.1145/3591300.。Drive ID: `1-ZP8ZwFbR-cyLcgbkD0pYLzLJGg9_4LR`|
+|2410.03017v2.pdf|L-004|**arXiv v2原本**。arXiv DOI: 10.48550/arXiv.2410.03017。旧監査の途中で切れたACM DOI文字列は根拠に採用しない。2025年EdWorkingPaper版との人数・内容の差は別途確認。Drive ID: `1-ZXOIjqzDB1zNRcts-re2upDR7st2QCj`|
+|2410.03017v2-2.pdf|L-004|**arXiv v2原本**。arXiv DOI: 10.48550/arXiv.2410.03017。旧監査の途中で切れたACM DOI文字列は根拠に採用しない。2025年EdWorkingPaper版との人数・内容の差は別途確認。Drive ID: `1-ZP8ZwFbR-cyLcgbkD0pYLzLJGg9_4LR`|
 |systems-13-00840.pdf|L-003|10.3390/systems13100840。Drive ID: `16TtFVW4nFb137YYdhJUW2mBKgh4-u_uI`|
 |bastani-et-al-2025-generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics.pdf|L-001|10.1073/pnas.2422633122。Drive ID: `1H5kjui_lYj1O5xnG4deOTaq_0PzazHpx`|
 |L-015_Pardos_2024_ChatGPTMathHelp.pdf|L-015|10.1371/journal.pone.0304013。Drive ID: `19JNEjiKpgUD1ZpRPB6c7jhoRxHWr6fB7`|
