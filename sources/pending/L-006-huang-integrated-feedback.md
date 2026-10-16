@@ -72,3 +72,7 @@ AIによる評価：介入パッケージの比較。選択バイアス、教師
 ## 2026-10-14 再取得結果
 
 出版社本文は403。著者所属[HKMU公式抄録](https://scholars.hkmu.edu.hk/en/publications/effects-of-integrating-generative-ai-teacher-and-peer-feedback-on/)を再確認、66人・6週間・AI追加対教師＋ピアの比較とpeer-review表記を確認。公開本文／最終巻号は今回の限定検索で確認できなかった。B／本文未確認を維持。対象地域・教科・学年内訳、割付・事前同等性、AIなし新課題・保持、採点者盲検と統計は未確認。抄録結果を因果効果・効果量・プレテスト効果の根拠に昇格させない。
+
+### 2026-10-16 追加アクセス監査
+
+Chrome Computer Useで出版社ページを確認。著者3名、Received2025-05-01、Accepted2025-12-30、Published online2026-01-09、Latest Articles/Vol0 No0を確認。Get Accessと機関ログイン・購入案内が表示され、抄録・開示・データ利用声明のみ確認可能。第三者サイトのOpen Access表示を信用せず、本文未確認Bを維持。データは参加者保護のため非公開、著者への依頼で利用可能と記載（連絡未実施）。Cordero高等教育PDFは別論文。巻号未確定、AIなし試験と保持の扱いを推測しない。

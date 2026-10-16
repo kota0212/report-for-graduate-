@@ -1,5 +1,7 @@
 # 文献総合ページ
 
+現行は登録24件・分析本文21件、A20/B3/C1。[2026-10-16調査結果](../docs/evidence-synthesis-2026-10-16.md)、[原本照合](drive-audit-2026-10-16.md)、[検索ログ](search-log-2026-10-16.md)。以下の19件は前回履歴、追加5件は末尾。WP2件は登録外。
+
 更新：2026-10-14。登録19件、A15／B3／C1。本文確認16件（研究・理論14＋政策2）、本文未確認2件、撤回原論文未確認1件。本文を読めたL-003は方法監査のためB。使用候補は正式採用を意味しない。
 
 [19件の評価・7観点比較・設計要件・プレテスト・収集優先順位](../docs/literature-review.md)／[台帳（状態正本）](literature-matrix.md)／[今回の原典監査](full-text-audit-2026-10-14.md)／[APA](apa-reference-list.md)／[管理ルール](README.md)。研究テーマ・RQ・研究方法の承認状態は変更していない。
@@ -41,3 +43,13 @@
 | L-019 | [Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry](../sources/usable/L-019-stadler-cognitive-ease.md) | A／本文 |
 
 原本はリポジトリに保存しない。2026-10-12の取得履歴は[PDF収集試行](pdf-collection-pilot-2026-10-12.md)。今回PDFのiCloud移動は行わず、GitHub上のメモ分類のみ更新。
+
+## 2026-10-16 追加登録（IDの空きを詰めない）
+
+|ID|分類・確認|文献と詳細|適用・留保|
+|---|---|---|---|
+|L-020|A／本文関連節確認・限定使用候補|[Lin et al. (2025)：小5の誤り分析](../sources/usable/L-020-lin-error-analysis.md)|小学校・間接／全体群間p=.069|
+|L-024|A／本文関連節確認・限定使用候補|[Yang et al. (2025)：高校プログラミング](../sources/usable/L-024-yang-programming.md)|直接／成績の負の群間差・AI禁止不明|
+|L-027|A／本文関連節確認・限定使用候補|[Jang et al. (2024)：高校作文prompt足場かけ](../sources/usable/L-027-jang-prompt-scaffolding.md)|直接／AIなし直後作文・複合支援|
+|L-029|A／本文関連節確認・限定使用候補|[Fütterer et al. (2026)：Grades7–9 SRL](../sources/usable/L-029-fuetterer-srl.md)|直接／知識・方略非有意、35%脱落|
+|L-030|A／本文関連節確認・限定使用候補|[Pan & Carpenter (2023)：pretestingレビュー](../sources/usable/L-030-pan-pretesting.md)|基礎理論・間接／GenAI効果実証ではない|

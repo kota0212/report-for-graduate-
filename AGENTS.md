@@ -56,3 +56,7 @@
 - 仮の研究計画を、正式決定した指導教員方針と取り違えていないか。
 
 生会話ログの保存先は共通Vaultの指定場所。本Repoに生会話を重複保存しない。
+
+## 2026-10-16 追加監査後の入口
+
+現行の方法案はdocs/review-protocol-2026-10-16.md、追加根拠比較はdocs/evidence-synthesis-2026-10-16.md、実施ログはreferences/search-log-2026-10-16.md、原本照合はreferences/drive-audit-2026-10-16.md。登録24件・分析本文21・Drive31PDF、保存保留WP2研究は別枠。旧節の29ファイルは開始時の記録。RQの重要な変更案・章案は未承認のまま。
