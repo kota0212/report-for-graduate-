@@ -1,5 +1,16 @@
 # AI Context / Machine-readable project index
 
+## 2026-10-16 Step 1 decision and Step 2 execution (current)
+
+- user_confirmed_method_focus: **OPTION A ADOPTED**; PRIMARY unassisted student learning outcomes; SECONDARY SRL, metacognition, verification and aid-selection behaviors.
+- rq_status: existing candidate-A wording remains provisional (teacher approval pending); method framework is structured comparative literature analysis, not claimed systematic-review completeness.
+- current_criteria: docs/step2-selection-comparison-method-2026-10-16.md
+- trial_24_study_classification: references/step2-triage-2026-10-16.md; 24 registered publications distributed M1 candidate 3 (L-001, L-005, L-027), M2 1 (L-017), Q 6, I 6, B 7, X 1. N-001/N-002 separate unregistered working papers.
+- M1 candidates_are_NOT_final_included_studies: true; L-005 next-problem unassisted eligibility needs verification; L-017 mixed age sensitivity.
+- next_task: confirm source pages/AI-prohibition/cluster/attrition/effect estimates for L-001, L-027, L-005, then conditional L-017 and L-009/L-024.
+- no new PDF added, no new primary research performed, no user approval of additional surveys or experiments.
+
+
 ## 2026-10-16 social significance evidence (current)
 
 - source_of_truth: docs/social-significance-2026.md
