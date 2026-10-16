@@ -1,5 +1,16 @@
 # AI Context / Machine-readable project index
 
+## 2026-10-16 social significance evidence (current)
+
+- source_of_truth: docs/social-significance-2026.md
+- Japanese GenAI use for study in 2025 (school-outside): middle school 32.7%, high school 57.7%. Source: 2026 Benesse / University of Tokyo 2025 parent-child survey digest p.7 fig. 1-3-1; includes even infrequent use.
+- Japanese schoolwork GenAI user practices: hint 63.0%, finished-answer generation 22.0% in 2026 Kanko online survey; question denominator still requires inspection; survey is self-report, not academic impact.
+- PNAS Bastani et al. 2025 (L-001): GPT Base vs control during practice +48%, following **short-term unassisted exam** roughly 17% lower relative control mean (regression -0.054 / 0.321); NOT 17 percentage points and NOT long-term harm demonstrated.
+- Evidence bridging: prevalence observational != causal school-wide harm. Keep positive/null studies in synthesis. Social relevance for teaching and AI tool design; scholarly contribution is Q1-Q2-Q3 structured comparison and requirements, not experimentally verified solution.
+- Word draft: 卒論_社会的意義反映_游明朝10.5pt_20261016.docx, 8 pages, updated 1-1/1-2 and provisional references; generated and rendered in conversation, not uploaded to public GitHub.
+
+
+
 ## 2026-10-16 FONT CORRECTION: authoritative user screenshot
 
 - **CURRENT AND FINAL STANDARD**: Word Japanese and Latin font 游明朝 (Yu Mincho), style **Regular**, body font **10.5 pt**. Apply to default styles and explicit run fonts, including eastAsia; headings share same font family.
