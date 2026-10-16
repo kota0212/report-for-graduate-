@@ -66,3 +66,13 @@ Wang, R. E., Ribeiro, A. T., Robinson, C. D., Loeb, S., & Demszky, D. (2024). *T
 - [L-017](../sources/usable/L-017-kazemitabaar-code-novices.md)：本文確認済み。L-017は会議論文番号、L-018は最終号が未照合のため個別メモのAPA候補を正式コピー一覧に追加していない。
 - [L-018](../sources/usable/L-018-fan-metacognitive-laziness.md)：本文確認済み。L-017は会議論文番号、L-018は最終号が未照合のため個別メモのAPA候補を正式コピー一覧に追加していない。
 - [L-019](../sources/usable/L-019-stadler-cognitive-ease.md)：本文確認済み。書誌確認済みコピー一覧へ追加。
+
+Lin, Y.-F., Yang, E. F.-Y., Wu, J.-S., Yeh, C. Y. C., Liao, C.-Y., & Chan, T.-W. (2025). Enhancing students’ authentic mathematical problem-solving skills and confidence through error analysis of GPT-4 solutions. *Research and Practice in Technology Enhanced Learning, 20*, Article 34. https://doi.org/10.58459/rptel.2025.20034
+
+Yang, T.-C., Hsu, Y.-C., & Wu, J.-Y. (2025). The effectiveness of ChatGPT in assisting high school students in programming learning: Evidence from a quasi-experimental research. *Interactive Learning Environments, 33*(6), 3726–3743. https://doi.org/10.1080/10494820.2025.2450659
+
+Jang, J., Eun, S., Lee, H., Choi, J., & Cho, Y. H. (2024). The effects of prompt scaffolding on learning to write arguments with ChatGPT. In R. Lindgren, T. I. Asino, E. A. Kyza, C. K. Looi, D. T. Keifert, & E. Suárez (Eds.), *Proceedings of the 18th International Conference of the Learning Sciences – ICLS 2024* (pp. 1502–1505). International Society of the Learning Sciences. https://doi.org/10.22318/icls2024.831011
+
+Fütterer, T., Bardach, L., Kuhn, J., Keller, S. D., & Gerjets, P. (2026). Enhancing school students’ self-regulated learning through generative AI support: A randomized controlled trial. *Educational Psychology Review, 38*, Article 42. https://doi.org/10.1007/s10648-026-10133-8
+
+Pan, S. C., & Carpenter, S. K. (2023). Prequestioning and pretesting effects: A review of empirical research, theoretical perspectives, and implications for educational practice. *Educational Psychology Review, 35*, Article 97. https://doi.org/10.1007/s10648-023-09814-5
