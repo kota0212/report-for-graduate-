@@ -5,7 +5,9 @@
 登録24件、A20/B3/C1、分析本文確認21（旧16＋新5）。以下の19件一覧は既存登録を保持し、追加5件は末尾の表を参照。N-001/002は保存保留で登録件数外。[原本照合](drive-audit-2026-10-16.md)、[検索ログ](search-log-2026-10-16.md)、[追加比較](../docs/evidence-synthesis-2026-10-16.md)。L-014の原文テキスト取得を、研究精読・採用復活に数えない。
 
 
-文献原本の保存先（2026-10-16以降）：[Google Drive「ゼミ（卒論）」](../docs/source-storage.md)。直下29PDF確認済み、**文献IDとの照合・重複検証は未完了**。下記の文献登録19件・評価件数はそのまま維持する。旧iCloud資料の場所は履歴であり、移行済みとは扱わない。
+### 文献追加前の履歴（2026-10-16以前の記録）
+
+文献原本の保存先（2026-10-16以降）：[Google Drive「ゼミ（卒論）」](../docs/source-storage.md)。**追加調査開始時**は29PDFと19登録文献。**最新は31PDF／登録24件**で、PDFと文献IDの書誌照合は[原本監査](drive-audit-2026-10-16.md)に記録済み。未確認なのはファイル版の完全な同一性、旧iCloudや下位階層も含めた全原本の網羅照合など。旧iCloudからの移行はしていない。次の段落・表の19件／16本文は**2026-10-14時点の履歴一覧**であり、文書冒頭の24件／21本文が現行値。
 
 最終学術評価：2026-10-14 ／ 登録19件、本文16件（研究・理論14＋政策2）、本文未確認2件、撤回原論文未確認1件。A15／B3／C1。初回公開文献調査でL-001から採番した体系を維持（別ローカル台帳との統合は未完了）。研究テーマは本人提示を検索基準とし、正式承認未確認。
 
@@ -13,7 +15,7 @@
 |---|---|---|---|---|---|---|---|
 | L-001 | A／使える | [Generative AI without guardrails can harm learning: Evidence from high school mathematics (2025)](../sources/usable/L-001-bastani-guardrails.md) | 本文確認済み | 高 | 高（当該短期介入の因果推定） | 学習効果・依存・ヒント。方法・知見・限界・引用箇所は詳細MD | 正確なユニーク生徒数・補足資料の全監査、教師入力の工数。2025年訂正は著者所属の訂正であることを別途確認した。 |
 | L-002 | B／保留 | [The impact of GenAI on learning outcomes: A systematic review and meta-analysis of experimental studies (2025)](../sources/pending/L-002-han-meta-analysis.md) | 出版社抄録まで確認／本文未確認 | 高 | 未判定（方法・収録研究の本文監査待ち） | 68研究・337効果量は抄録報告。詳細MD参照 | 本文・効果量依存、品質、AIなし評価、収録リスト・出版バイアスを監査 |
-| L-003 | B／保留（評価補完） | [A Systematic Review of Generative AI in K–12: Mapping Goals, Activities, Roles, and Outcomes via the 3P Model (2025)](../sources/pending/L-003-lin-tan-k12.md) | 掲載版本文確認済み | 高 | 中～低（選別件数・質評価に留保） | 3P/CIMOによる84研究の分類。効果統合ではない | 件数遷移の算術不整合、研究別MMAT、現行HTMLとの版差・撤回資料の引用/包含を監査 |
+| L-003 | B／保留（評価補完） | [A Systematic Review of Generative AI in K–12: Mapping Goals, Activities, Roles, and Outcomes via the 3P Model (2025)](../sources/pending/L-003-lin-tan-k12.md) | 掲載版本文確認済み | 高 | 中～低（選別件数・質評価に留保） | 3P/CIMOによる84研究の分類。効果統合ではない | フロー図の算術は再監査で一致と判明、残る本文記載との不一致・研究別MMAT、現行HTMLとの版差・撤回資料の引用/包含を監査 |
 | L-004 | A／使える | [Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise (2024)](../sources/usable/L-004-tutor-copilot.md) | 本文確認済み（v2） | 高 | 中（事前登録RCT、プレプリント） | 教師・AI協働・問いかけ。方法・知見・限界・引用箇所は詳細MD | 出版・採択状況の再確認、版間の人数差、年度末分析の欠測・精度。 |
 | L-005 | A／使える | [A Large Scale Randomized Control Trial Showing LLM Generated Feedback Helps Low-Knowledge Middle School Math Students with Short-Term Learning (2026)](../sources/usable/L-005-worden-feedback-rct.md) | 本文確認済み（著者公開採択稿） | 高 | 中（RCT、人数表記等に要確認） | 理解度・フィードバック・RCT。方法・知見・限界・引用箇所は詳細MD | Crossrefの姓Ivan Lim／採択稿のWen-Chiang Ivan Lim／著者サイトのLimが不一致。正式APAの姓名分割、最終版人数と表記を照合する。 |
 | L-006 | B／保留 | [Effects of integrating generative AI, teacher, and peer feedback on Middle school students’ attitudes, writing proficiency, and peer-assessment scoring ability: a quasi-experimental study (2026)](../sources/pending/L-006-huang-integrated-feedback.md) | 所属大学抄録再確認／本文未確認 | 高 | 未判定（準実験の詳細未確認） | 66人・6週、教師＋ピアへのAI追加。抄録のみ | 本文・割付・事前差・採点・独立評価・最終巻号を確認 |
