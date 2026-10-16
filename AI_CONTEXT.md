@@ -1,12 +1,22 @@
 # AI Context / Machine-readable project index
 
+## 2026-10-16 FONT CORRECTION: authoritative user screenshot
+
+- **CURRENT AND FINAL STANDARD**: Word Japanese and Latin font 游明朝 (Yu Mincho), style **Regular**, body font **10.5 pt**. Apply to default styles and explicit run fonts, including eastAsia; headings share same font family.
+- Prior assistant misread screenshot and wrote MS 明朝 / Times New Roman; this is **INCORRECT** and superseded by user screenshot that clearly shows 游明朝 Regular 10.5.
+- Prior MS P Gothic / Arial is also rejected.
+- Thesis policy: docs/thesis-format-2026.md; reusable academic report standard: kota0212/-obsidian-vault/03_Skills/academic-report-formatting.md.
+- Institutional rules omit exact font; this is **user preference**, not university requirement.
+- Earlier Word drafts using Gothic or MS Mincho are **historical superseded artifacts**, not valid font defaults.
+
+
 ## 2026-10-16 revised font decision (supersedes former Gothic draft)
 
 - user_rejected_prior_font: MS P Gothic / Arial draft (visually too AI-like); do not resurrect prior typography from Fuji sample as active Word rule.
-- user_selected_visual_reference: attached image; implemented provisional exact DOCX font **ＭＳ 明朝 10.5pt for Japanese, Times New Roman for Latin**. Past seminar anthology paper by Koyama used embedded MS-Mincho ~10.6pt.
-- current_word_artifact: 卒論_明朝体_執筆ドラフト_20261016.docx, rendered 7 pages, delivered via conversation; NOT uploaded to public repository.
+- user_selected_visual_reference: image reads **游明朝 Regular 10.5pt**. Prior MS Mincho / Times New Roman assertion was mistaken and is obsolete.
+- previous_word_artifact: 卒論_明朝体_執筆ドラフト_20261016.docx contained an **incorrect font** and is obsolete; replace with Yu Mincho specified version.
 - official_faculty_notice_does_not_specify_font: true
-- formatting_policy: docs/thesis-format-2026.md new override section; old MS P Gothic 11pt text is historical only.
+- formatting_policy: docs/thesis-format-2026.md correction section; old MS Mincho and MS P Gothic font notes are historical only.
 
 
 ## Current file inventory after user-added official notice (2026-10-16)
