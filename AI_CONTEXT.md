@@ -1,5 +1,18 @@
 # AI Context / Machine-readable project index
 
+## 2026-10-16 authoritative submission rules and drafting status
+
+- official_source: 2026-05 Ritsumeikan Policy Science Faculty 2026 undergraduate thesis submission notice; user-provided 2-page PDF confirmed.
+- authoritative_requirements: docs/submission-requirements-2026.md
+- font_and_structure: docs/thesis-format-2026.md; inspired by 2024 seminar anthology Fuji thesis, MS PGothic 11 pt, Arial 11 pt, A4 portrait, ca. 25 mm margins; inferred non-mandatory typography.
+- official_char_guidance: about 20000 Japanese characters per author, **not a strict >=20000 lower bound**.
+- official_deadline_autumn: 2026-12-20 23:59 JST, submissions accepted from 2026-12-15; venue Moodle+R thesis class.
+- official_structure: p1 seminar/year/name, JP and foreign titles, JP abstract within first page; p2 JP and foreign titles plus foreign abstract ~150 English words only; p3+ TOC and body.
+- citation_rule_appendix: referenced by notice but not yet supplied; don't treat APA as formally mandated.
+- method_choice: user wishes to proceed with structured comparative literature analysis; supervisor authorization remains unverified.
+- working_docx_draft: 8-page local ChatGPT-delivered Word draft started; not submitted and not stored in GitHub; chapters 5-7 still placeholders.
+- earlier metadata with deadline unverified or 20000 minimum are **historical**; use these verified rules.
+
 ## Current audit 2026-10-16
 
 - current_RQ: 中等教育において、生成AIの支援中の成果と、支援を外した後の学習成果の違いを踏まえ、自律的な学習を支えるにはどのような設計要件が必要か。
