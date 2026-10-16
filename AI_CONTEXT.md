@@ -40,6 +40,8 @@
 - method_choice: user wishes to proceed with structured comparative literature analysis; supervisor authorization remains unverified.
 - working_docx_draft: 8-page local ChatGPT-delivered Word draft started; not submitted and not stored in GitHub; chapters 5-7 still placeholders.
 - earlier metadata with deadline unverified or 20000 minimum are **historical**; use these verified rules.
+- corrected_word_artifact: 卒論_游明朝Regular10.5pt_執筆ドラフト_20261016.docx (user screenshot font=游明朝 Regular 10.5, Word OOXML eastAsia/ascii/hAnsi/cs set to 游明朝, 7 pages rendered, typography preview substituted due environment font unavailable; DOCX created in chat, not uploaded to GitHub).
+
 
 ## Current audit 2026-10-16
 
