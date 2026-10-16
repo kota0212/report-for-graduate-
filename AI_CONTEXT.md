@@ -1,5 +1,14 @@
 # AI Context / Machine-readable project index
 
+## 2026-10-16 revised font decision (supersedes former Gothic draft)
+
+- user_rejected_prior_font: MS P Gothic / Arial draft (visually too AI-like); do not resurrect prior typography from Fuji sample as active Word rule.
+- user_selected_visual_reference: attached image; implemented provisional exact DOCX font **ＭＳ 明朝 10.5pt for Japanese, Times New Roman for Latin**. Past seminar anthology paper by Koyama used embedded MS-Mincho ~10.6pt.
+- current_word_artifact: 卒論_明朝体_執筆ドラフト_20261016.docx, rendered 7 pages, delivered via conversation; NOT uploaded to public repository.
+- official_faculty_notice_does_not_specify_font: true
+- formatting_policy: docs/thesis-format-2026.md new override section; old MS P Gothic 11pt text is historical only.
+
+
 ## Current file inventory after user-added official notice (2026-10-16)
 
 - google_drive_root_file_count: 32 PDFs (includes 1 official 2026 thesis submission notice; this is **not 32 distinct research articles**).
