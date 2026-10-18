@@ -1,0 +1,26 @@
+﻿ID,文献,用途,成果別支援分類,検証状態,判断理由,既存根拠
+L-001,L-001：Generative AI without guardrails can harm learning: Evidence from high school mathematics,M1,SA/S0,今回関連原典再点検,閉本・PCなしを本文明示。禁止の完全遵守を独立検証したという意味ではない,sources/usable/L-001-bastani-guardrails.md
+L-027,L-027：高校作文のプロンプト足場かけ,M1,S0/SU,今回関連原典再点検,作文のChatGPTなしを明示。知識評価の可否は別判定,sources/usable/L-027-jang-prompt-scaffolding.md
+L-005,L-005：A Large Scale Randomized Control Trial Showing LLM Generated Feedback Helps Low-Knowledge Middle School Math Students with Short-Term Learning,M2,SA/S2,今回関連原典再点検,次問初回は当該問のヒント・説明前。外部AI・全支援遮断とは異なる,sources/usable/L-005-worden-feedback-rct.md
+L-009,"L-009：Using LLMs to bring evidence-based feedback into the classroom: AI-generated feedback increases secondary students’ text revision, motivation, and positive emotions",M2,SA/S1,今回関連原典再点検,研究用FBは初稿に固定、別フェーズの新規作文。外部AI遮断の明示なし,sources/usable/L-009-meyer-writing-feedback.md
+L-017,L-017：Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming,M2,SA/S0,今回関連原典再点検,評価ではコード生成器・Python教材・提出後FBなしを§4.1.3で明示,sources/usable/L-017-kazemitabaar-code-novices.md
+L-029,L-029：中学生のSRL支援RCT,M2,S1,今回関連原典再点検,全群GPT-4o・正答直接提示抑制。T1/T2別測定; 外部AI禁止は未明示,sources/usable/L-029-fuetterer-srl.md
+L-004,L-004：Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise,Q,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-004-tutor-copilot.md
+L-006,"L-006：Effects of integrating generative AI, teacher, and peer feedback on Middle school students’ attitudes, writing proficiency, and peer-assessment scoring ability: a quasi-experimental study",Q,未再判定,既存監査継承（今回評価手続の再監査なし）,本文未確認。結果の定量比較を保留,sources/pending/L-006-huang-integrated-feedback.md
+L-007,L-007：誤りを含む生成AIの回答に批判的思考を働かせる教材を用いた高校数学の実践と評価,Q,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-007-nachi-critical-thinking.md
+L-024,L-024：高校プログラミングでのChatGPT追加,Q,SU,今回関連原典再点検,Figure1で高校2年と試験時点は確認。自由チャットの評価時可否不明,sources/usable/L-024-yang-programming.md
+L-008,L-008：AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting,I,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-008-kestin-ai-tutoring.md
+L-015,L-015：ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills,I,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-015-pardos-math-help.md
+L-016,"L-016：Empowering ChatGPT with guidance mechanism in blended learning: effect of self-regulated learning, higher-order thinking skills, and knowledge construction",I,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-016-lee-guidance-chatgpt.md
+L-018,"L-018：Beware of metacognitive laziness: Effects of generative artificial intelligence on learning motivation, processes, and performance",I,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-018-fan-metacognitive-laziness.md
+L-019,L-019：Cognitive ease at a cost: LLMs reduce mental effort but compromise depth in student scientific inquiry,I,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-019-stadler-cognitive-ease.md
+L-020,L-020：GPT-4解法の誤り分析（小学校・間接根拠）,I,未再判定,既存監査継承（今回評価手続の再監査なし）,本稿で独立成果の定量比較には使用しない。対象・比較・統計の既存留保を維持,sources/usable/L-020-lin-error-analysis.md
+L-002,L-002：The impact of GenAI on learning outcomes: A systematic review and meta-analysis of experimental studies,B,未判定,既存監査継承（今回原典再読なし）,本文未確認。レビューの候補として保持するが本稿の効果根拠には採用しない,sources/pending/L-002-han-meta-analysis.md
+L-003,"L-003：A Systematic Review of Generative AI in K–12: Mapping Goals, Activities, Roles, and Outcomes via the 3P Model",B,N/A,既存監査継承（今回原典再読なし）,レビューの分類枠組み。選定件数の本文と図に不整合が残る,sources/pending/L-003-lin-tan-k12.md
+L-010,L-010：Generative AI use in K-12 education: a systematic review,B,N/A,既存監査継承（今回原典再読なし）,理論・政策・レビュー/背景として使用,sources/usable/L-010-alfarwan-k12-review.md
+L-011,L-011：The Power of Feedback,B,N/A,既存監査継承（今回原典再読なし）,理論・政策・レビュー/背景として使用,sources/usable/L-011-hattie-feedback.md
+L-012,L-012：初等中等教育段階における生成AIの利活用に関するガイドライン（Ver. 2.0）,B,N/A,"今回ガイドラインpp.17–20,25を原典再点検",制度・学校運用の原則として使用。学習効果の因果証拠と分離,sources/usable/L-012-mext-guideline.md
+L-013,L-013：Guidance for generative AI in education and research,B,N/A,既存監査継承（今回原典再読なし）,理論・政策・レビュー/背景として使用,sources/usable/L-013-unesco-guidance.md
+L-030,L-030：pretesting／prequestioningの理論補完,B,N/A,既存監査継承（今回原典再読なし）,理論・政策・レビュー/背景として使用,sources/usable/L-030-pan-pretesting.md
+L-014,"L-014：The effect of ChatGPT on students’ learning performance, learning perception, and higher-order thinking: insights from a meta-analysis",X,N/A,既存撤回確認継承,撤回済み。効果の根拠から除外,sources/not-usable/L-014-wang-fan-retracted.md
+C-001,Kreijkes et al. (2026),追加候補・補助比較,S1,今回原典関連節・図表再点検,LLM画面は学習session1; 別session評価・監督あり。外部検索不正1除外; 完全な外部AI禁止の記載は未確認,references/step7-new-candidate-kreijkes-2026-10-16.md

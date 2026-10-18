@@ -1,5 +1,9 @@
 # 卒業論文プロジェクト
 
+## 現在地：Word第2稿を作成（2026-10-18）
+
+[研究ダッシュボード](docs/overview.md)から、第2稿の比較表・設計要件・査読対応・RQ判断資料・検査結果へ進めます。本文20,861字、英文要約152語。第2稿DOCXは指定Driveへ別名保存。現行RQを維持し、未承認案は確定していません。全件原典監査と提出前確認は継続中。以下の古い「Word未統合」等は履歴です。
+
 **Step 8（2026-10-16）**：[第2章・理論的枠組み](docs/chapter-2-theoretical-framework-draft-2026-10-16.md)と[第3章・先行研究](docs/chapter-3-literature-review-draft-2026-10-16.md)の新しい本文草稿を作成。既存の[第5章](docs/chapter-5-comparative-analysis-draft-2026-10-16.md)・[第6章](docs/chapter-6-design-requirements-draft-2026-10-16.md)・[第7章](docs/chapter-7-conclusion-draft-2026-10-16.md)との接続を整理した。案AはAIなし成果が主、SRL補助。M1は中等直接2研究（L-001/027）で変化なし。**第4章はローカル草稿のみ、Word全文統合と引用文献の最終確認は未完了。** 詳細は[タスク管理](docs/tasks.md)と[監査レポート](docs/step7-cross-chapter-audit-2026-10-16.md)。
 
 

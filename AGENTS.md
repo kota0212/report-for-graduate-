@@ -1,5 +1,9 @@
 # Agent Instructions — Graduation Thesis Repository
 
+## 2026-10-18の最新参照
+
+第2稿の最新入口はAI_CONTEXT.md冒頭、分析はanalysis/second-draft-20261017/、章別本文はmanuscript/second-draft-20261017/。現行RQ維持、修正案B未承認。Drive共有は最新metadataでshared=false・所有者のみと確認。下記anyone/writerは2026-10-16の履歴であり、今後も保存前に実状態を確認する。
+
 対象：kota0212/report-for-graduate-。ChatGPT / Codex / その他のAIがこのRepositoryを扱う際のプロジェクト固有ルール。共通ルールは kota0212/-obsidian-vault の AI_RULES.md に従う（参照は各作業につき最初の一度、必要なものだけ追加参照）。
 
 ## 役割と正本

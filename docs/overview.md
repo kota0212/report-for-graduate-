@@ -1,5 +1,9 @@
 # 卒論ダッシュボード（Human View）
 
+## 第2稿を作成（2026-10-17／続行2026-10-18）
+
+本文20,861字、英文要約152語のWord第2稿を指定Driveへ保存。[変更・書式検査](../analysis/second-draft-20261017/quality-report.md)、[比較表](../analysis/second-draft-20261017/outcome-evidence.md)、[設計要件](../analysis/second-draft-20261017/design-requirements.md)、[査読対応](../analysis/second-draft-20261017/review-response.md)、[RQ判断](../analysis/second-draft-20261017/decisions.md)を作成。現行RQを維持し、修正案は未承認の提案。研究分析は主要8研究を重点化し、全件原典再監査・補足・引用別添・実機Word・教員確認が残る。以下の旧進捗は履歴。
+
 
 ## 2026-10-16 Step 9｜1〜7章Word統合初稿が完成（最新）
 
