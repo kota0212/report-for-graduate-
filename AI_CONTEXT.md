@@ -1,5 +1,17 @@
 # AI Context / Machine-readable project index
 
+## CURRENT: second draft 2026-10-17; continued 2026-10-18
+
+- Read this section before historical snapshots below. Branch proposal, not a main/RQ decision.
+- Manuscript: manuscript/second-draft-20261017/chapter-1.md through chapter-7.md and references.md.
+- Evidence: analysis/second-draft-20261017/outcome-evidence.json/.csv/.md (8 studies, 33 outcome rows); design-requirements.json/.csv/.md (12 preserved IDs).
+- Decisions, source audit, review responses and QA: same analysis directory, decisions.md / audit-log.md / review-response.md / quality-report.md.
+- Current provisional RQ retained. Wording B is an unapproved recommendation, not adopted. Seven chapters maintained as an editing choice. S0 primary two secondary-school studies; S1/S2/mixed-age supplementary layers.
+- Registered 24 unchanged; C-001 supplementary candidate outside register. Whole-set classifications explicitly distinguish inherited audit from newly rechecked 8 studies. All-24 source re-extraction NOT complete.
+- Word second draft generated; body 20,861 nonwhitespace characters incl. headings/tables/citations, excluding front matter/references/appendix; English abstract 152 words. Native Yu Mincho check remains. DOCX kept in designated Drive; no source PDFs or private review uploaded to public repo.
+- GR-006/009: comparison and requirement artifacts created, research confirmation still ongoing. GR-010: second DOCX generated and revised, final submission QA/teacher approval incomplete. GR-003/004/012/013/017 retain specific remaining source/supplement/whole-set checks.
+- Drive folder permissions 2026-10-18 metadata: shared=false, owner-only listed. Earlier anyone/writer is historical; permissions were not changed by this run.
+
 ## CURRENT: Gemini source audit 2026-10-16 (overrides older snapshots)
 
 - evidence: references/gemini-source-audit-2026-10-16.md

@@ -1,0 +1,45 @@
+{
+  "render_pages": 34,
+  "toc_actual": {
+    "第1章　はじめに": 4,
+    "第2章　生成AI学習支援を検討するための理論的枠組み": 6,
+    "第3章　先行研究と本研究の位置づけ": 10,
+    "第4章　構造化文献比較の方法": 12,
+    "第5章　学習成果と支援条件の比較分析": 15,
+    "第6章　設計要件の提案と学校への適用": 21,
+    "第7章　結論と今後の課題": 27,
+    "参考文献": 29,
+    "付表　対象資料の用途と保留理由": 32
+  },
+  "toc_matches": true,
+  "internal_codes_absent": true,
+  "bibliography_count": 19,
+  "bibliography_author_text_matches": true,
+  "original_paragraphs_72_317_characters": 37681,
+  "original_all_paragraphs_tables_characters": 46855,
+  "new": {
+    "count_rule": "Unicode文字数・空白改行除外。本文は章節見出し・表・文中引用含む。要約・目次・参考文献・付表・ページ番号を除く。大学の公式算入細目ではない。",
+    "chapter_characters": {
+      "1": 1351,
+      "2": 3378,
+      "3": 1573,
+      "4": 2546,
+      "5": 5654,
+      "6": 4955,
+      "7": 1404
+    },
+    "parts": {
+      "front": 2186,
+      "body": 20861,
+      "references": 4463,
+      "appendix": 2483
+    },
+    "abstract_words": 152,
+    "tables": 4,
+    "total_characters": 29993
+  },
+  "font_setting": "游明朝 10.5pt; headings 11/12pt",
+  "preview_substitute": "Noto Serif CJK JP; native Yu Mincho unavailable",
+  "continuation_checked": "2026-10-18",
+  "docx_sha256": "681c98d25cee8b63f212a22c1fea7f44f422aec1785daca12b86ab3e73f711e3"
+}

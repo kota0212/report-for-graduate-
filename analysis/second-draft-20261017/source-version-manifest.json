@@ -1,0 +1,62 @@
+[
+  {
+    "local_alias": "bastani.pdf",
+    "sha256": "996e2ce8d6a5e89076fe5b7741d4288d5af01fea14931f2b1efc9bf4bc12b96f",
+    "size": 2618989,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "fuetterer.pdf",
+    "sha256": "262e0c5ec5f0e5919d610a7712abd4f72d454ed012d09170e1b872919f78f1d4",
+    "size": 4453667,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "jang.pdf",
+    "sha256": "a12647e25abdfd094c2a4c3712120037029ad4f5d2d8c5a061f880597b4ab672",
+    "size": 292030,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "kazemitabaar.pdf",
+    "sha256": "1b0421a0925f6f65125b7acc4f50e11c9b39e4efffc97fa69434c2690b1e4a60",
+    "size": 4406156,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "kreijkes.pdf",
+    "sha256": "91cdb88dc5fd231bf08246ae7b20d60b8b00b2f3aadf05357b60f02285bd9e3c",
+    "size": 5388878,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "mext.pdf",
+    "sha256": "606239f61a1648e8c6bd13e874e44fe299dc77ee1749c218dd11b3400e22aa95",
+    "size": 2795960,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "meyer.pdf",
+    "sha256": "93a2acaef232a14433644fceed627246199d4081afc6c49f043d3ee1190ce795",
+    "size": 899067,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "requirements.pdf",
+    "sha256": "cdb563669c7c4928745dc21758ef3ad1835d4c180a2e534770e8d13e90edce32",
+    "size": 185773,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "worden.pdf",
+    "sha256": "beff339fd99b24293a9990049bdf66e0a306d00e4eaf39c784a8f7db4ff95810",
+    "size": 1080981,
+    "role": "audit input; not uploaded"
+  },
+  {
+    "local_alias": "yang.pdf",
+    "sha256": "8497778239de9458ea86fee1d81b26ed0845b36d1139af8a4a9ee6c987792508",
+    "size": 1225284,
+    "role": "audit input; not uploaded"
+  }
+]
