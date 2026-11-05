@@ -1,5 +1,17 @@
 # AI Context / Machine-readable project index
 
+## CURRENT: User-confirmed population scope (2026-11-05)
+
+- scope_status: user_confirmed; supervisor_approval_unverified
+- target_population: secondary education (junior-high and high-school students, including comparable overseas grades)
+- exclude_middle_school_only: true
+- analysis_policy: stratify by grade, school level, subject and AI-use/evaluation conditions; never automatically extrapolate high-school RCT outcomes to junior-high; younger/older groups are indirect evidence
+- rationale: increasing use of GenAI in studying; possible divergence between assisted task completion and independently demonstrated learning; developing self-monitoring and learning regulation are a relevant educational consideration, NOT evidence that adolescents are inherently lazy or uniquely dependent
+- unchanged: existing umbrella RQ wording; Option A unassisted performance primary, SRL secondary; structured literature comparison as proposed method
+- still_unapproved: revised subquestions, supervisor signoff, updated manuscript
+- source: docs/research-plan.md (2026-11-05 decision)
+
+
 ## CURRENT: Gemini source audit 2026-10-16 (overrides older snapshots)
 
 - evidence: references/gemini-source-audit-2026-10-16.md
